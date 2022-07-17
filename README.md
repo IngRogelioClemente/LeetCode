@@ -1,4 +1,4 @@
-# LeetCode solved problemas
+# LeetCode solved problems
 
 - Rogelio Clemente Balderas
 - Software Engineer
