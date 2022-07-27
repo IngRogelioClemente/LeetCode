@@ -4,7 +4,7 @@
         int[] resultado = new int[nums.Length];
         
         //** Convertir a cuadrado **// 
-        for (int i = 0; i < nums.Length; i++)
+        for (int i = 0; i < nums.Length; i++) //Evalua Array
         {
             nums[i] = nums[i] * nums[i];
         }
